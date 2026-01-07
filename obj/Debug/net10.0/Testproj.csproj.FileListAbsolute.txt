@@ -1,0 +1,15 @@
+/home/santho/VSCode/C#_Certification/Testproj/bin/Debug/net10.0/Testproj
+/home/santho/VSCode/C#_Certification/Testproj/bin/Debug/net10.0/Testproj.deps.json
+/home/santho/VSCode/C#_Certification/Testproj/bin/Debug/net10.0/Testproj.runtimeconfig.json
+/home/santho/VSCode/C#_Certification/Testproj/bin/Debug/net10.0/Testproj.dll
+/home/santho/VSCode/C#_Certification/Testproj/bin/Debug/net10.0/Testproj.pdb
+/home/santho/VSCode/C#_Certification/Testproj/obj/Debug/net10.0/Testproj.GeneratedMSBuildEditorConfig.editorconfig
+/home/santho/VSCode/C#_Certification/Testproj/obj/Debug/net10.0/Testproj.AssemblyInfoInputs.cache
+/home/santho/VSCode/C#_Certification/Testproj/obj/Debug/net10.0/Testproj.AssemblyInfo.cs
+/home/santho/VSCode/C#_Certification/Testproj/obj/Debug/net10.0/Testproj.csproj.CoreCompileInputs.cache
+/home/santho/VSCode/C#_Certification/Testproj/obj/Debug/net10.0/Testproj.dll
+/home/santho/VSCode/C#_Certification/Testproj/obj/Debug/net10.0/refint/Testproj.dll
+/home/santho/VSCode/C#_Certification/Testproj/obj/Debug/net10.0/Testproj.pdb
+/home/santho/VSCode/C#_Certification/Testproj/obj/Debug/net10.0/Testproj.genruntimeconfig.cache
+/home/santho/VSCode/C#_Certification/Testproj/obj/Debug/net10.0/ref/Testproj.dll
+/home/santho/VSCode/C#_Certification/Testproj/obj/Debug/net10.0/Testproj.sourcelink.json
